@@ -1,4 +1,4 @@
-# ha-gas-rename
+# HA-Gas-Rename
 
 A Home Assistant dashboard resource that renames **"Gas"** to **"Stadsverwarming"** (NL) or **"District Heating"** (EN) throughout the Energy dashboard UI — including the tabs, charts, and the Now view.
 
